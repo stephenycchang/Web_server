@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<style>
+#fixed {
+position:fixed;
+left:10px;
+top: 50px;
+background:white;
+border:1px solid red;}
+</style>
+<body>
+<p id="fixed">Here is some text, which is fixed.</p>
+<p>
+[many times: "stuff <br/>"]
+</p>
+</body>
+</html> 
